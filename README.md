@@ -1,5 +1,6 @@
 # Vsftp Server on Ubuntu
 
+![alt text](https://github.com/lalantham/vsftp-ubuntu/blob/main/install-ftp-server-ubuntu-vsftpd.png)
 
 ### ** Install VSFTPD Server :
 - Open Terminal
